@@ -141,5 +141,19 @@
 </p>
 
 ---
-<!-- Dynamic Footer Banner -->
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0072ff,100:00c6ff&height=120&section=footer&text=Learning%20%7C%20Building%20%7C%20Growing%20Everyday%20🚀&fontSize=24&fontColor=ffffff&fontAlignY=55&animation=twinkling" />
+
+
+
+
+
+
+
+
+
+<!-- Dynamic Message -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=21&pause=1200&color=36BCF7&center=true&width=600&lines=Learning+AI+%26+Web+Development;Building+Real+World+Projects;Preparing+For+Tech+Careers+🚀" />
+</p>
+
+<!-- Footer Shape -->
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0072ff,100:00c6ff&height=90&section=footer&animation=fadeIn" />
