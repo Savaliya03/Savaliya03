@@ -151,9 +151,9 @@
 
 <!-- Combined Dynamic Footer -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=21&pause=1200&color=FFFFFF&center=true&width=550&lines=Learning+AI+%26+Web+Development;Building+Real+World+Projects;Preparing+For+Tech+Careers+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=21&pause=1200&color=FFFFFF&center=true&width=650&lines=🌍+Exploring+the+world+of+coding;😊+Staying+positive;🧠+Learning+with+patience;🔁+Learning+from+mistakes;💻+Improving+myself;🌱+Growing+with+experience;🚀+Never+giving+up" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0072ff,100:00c6ff&height=110&section=footer&text=Turning%20Ideas%20Into%20Code%20💻&fontSize=22&fontColor=ffffff&fontAlignY=55&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0072ff,100:00c6ff&height=110&section=footer&text=Keep%20Learning%20.%20Keep%20Growing%20💙&fontSize=22&fontColor=ffffff&fontAlignY=55&animation=fadeIn" />
 </p>
