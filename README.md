@@ -88,12 +88,16 @@ A web-based application to manage income and expenses.
 
 ---
 
+
 ## 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=Savaliya03&show_icons=true&theme=radical&hide_border=true&custom_title=GitHub%20Stats&animation=wave" height="180"/>
 
   <img src="https://streak-stats.demolab.com?user=Savaliya03&theme=radical&hide_border=true" height="180"/>
+</p>
 
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Savaliya03&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=false" height="180"/>
 
   <img src="https://nirzak-streak-stats.vercel.app/?user=Savaliya03&theme=github_dark_dimmed&hide_border=false" height="180"/>
