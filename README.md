@@ -9,12 +9,13 @@
 
 ## 👨‍💻 About Me
 
-🔹 B.Tech IT Student (2026)  
-🔹 Interested in AI, LLMs & Web Development  
-🔹 Learning by building real projects  
-🔹 Open to collaboration & mentorship  
+🔭 Currently building small Python & Web projects  
+🤝 Open to working with others on beginner-friendly ideas  
+🆘 Learning with guidance in AI, LLMs & Web Development  
+🌱 Exploring Python, Django, Machine Learning, LangChain & PEFT  
+💬 Feel free to ask me about basic Python, HTML, CSS & simple projects  
+⚡ Fun fact: I enjoy learning new technologies and improving daily 🚀  
 
-⚡ *"Consistency beats talent."*
 
 ---
 
