@@ -113,25 +113,6 @@ A web-based application to manage income and expenses.
 </p>
 
 
-
-
----
-
-## 📅 3D Contributions Calendar
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Savaliya03/github-profile-3d-contrib/main/profile-3d-contrib/profile-green-animate.svg" />
-</p>
-
-
----
-
-## 🐍 Contribution Snake Animation
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
-</p>
-
 ---
 
 ## 👀 Profile Visitors
