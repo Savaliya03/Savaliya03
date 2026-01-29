@@ -1,146 +1,125 @@
-<!-- 🌊 Animated Wave Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20👋,%20I'm%20Vatsal%20Savaliya&fontSize=40&fontAlignY=40&animation=fadeIn" />
+<!-- Header -->
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:141E30,100:243B55&height=180&section=header&text=Vatsal%20Savaliya&fontSize=36&fontAlignY=45&desc=AI%20%7C%20Web%20%7C%20B.Tech%20IT%20Student&descAlignY=70&animation=fadeIn" />
+
+<p align="center">
+  <b>🚀 Learning • Building • Improving Everyday</b>
+</p>
 
 ---
 
-# 💫 About Me:
-🔭 Currently building small Python & Web projects  <br>
-🤝 Open to working with others on beginner-friendly ideas  <br>
-🆘 Learning with guidance in AI, LLMs & Web Development  <br>
-🌱 Exploring Python, Django, Machine Learning, LangChain & PEFT  <br>
-💬 Feel free to ask me about basic Python, HTML, CSS & simple projects  <br>
-⚡ Fun fact: I enjoy learning new technologies and improving daily 🚀  <br>
+## 👨‍💻 About Me
+
+🔹 B.Tech IT Student (2026)  
+🔹 Interested in AI, LLMs & Web Development  
+🔹 Learning by building real projects  
+🔹 Open to collaboration & mentorship  
+
+⚡ *"Consistency beats talent."*
 
 ---
 
-## 🌐 Socials:
+## 🌍 Let’s Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vatsal-savaliya-587bab281)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/VatsalS03)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@vatsals_space)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vatsalsavaliya03@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/vatsal-savaliya-587bab281">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin"/>
+  </a>
+  <a href="https://x.com/VatsalS03">
+    <img src="https://img.shields.io/badge/X-Follow-black?logo=x"/>
+  </a>
+  <a href="https://youtube.com/@vatsals_space">
+    <img src="https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube"/>
+  </a>
+  <a href="mailto:vatsalsavaliya03@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-orange?logo=gmail"/>
+  </a>
+</p>
 
 ---
 
-# 💻 Tech Stack
+## 🧩 Skills & Tools
 
-### 👨‍💻 Programming Languages
-![Python](https://img.shields.io/badge/Python-blue?logo=python)
-![C](https://img.shields.io/badge/C-blue?logo=c)
-![C++](https://img.shields.io/badge/C++-blue?logo=cplusplus)
-![PHP](https://img.shields.io/badge/PHP-purple?logo=php)
+### 💻 Languages
+`Python` `C` `C++` `PHP`
 
-### 🌐 Web Development
-![HTML](https://img.shields.io/badge/HTML-orange?logo=html5)
-![CSS](https://img.shields.io/badge/CSS-blue?logo=css3)
-![Tailwind](https://img.shields.io/badge/Tailwind-blue?logo=tailwindcss)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?logo=bootstrap)
-![Django](https://img.shields.io/badge/Django-darkgreen?logo=django)
-![FastAPI](https://img.shields.io/badge/FastAPI-green?logo=fastapi)
-![Flask](https://img.shields.io/badge/Flask-black?logo=flask)
+### 🌐 Web & Backend
+`HTML` `CSS` `Tailwind` `Bootstrap`  
+`Django` `FastAPI` `Flask`
 
-### 🤖 AI / ML
-![OpenCV](https://img.shields.io/badge/OpenCV-white?logo=opencv)
-![NumPy](https://img.shields.io/badge/NumPy-blue?logo=numpy)
-![Pandas](https://img.shields.io/badge/Pandas-purple?logo=pandas)
-![Scikit](https://img.shields.io/badge/Scikit--Learn-orange?logo=scikitlearn)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?logo=tensorflow)
-![PyTorch](https://img.shields.io/badge/PyTorch-red?logo=pytorch)
+### 🤖 AI / Data
+`OpenCV` `NumPy` `Pandas`  
+`Scikit-learn` `TensorFlow` `PyTorch`
 
 ### 🗄️ Database
-![MySQL](https://img.shields.io/badge/MySQL-blue?logo=mysql)
-![Postgres](https://img.shields.io/badge/PostgreSQL-blue?logo=postgresql)
-![SQLite](https://img.shields.io/badge/SQLite-blue?logo=sqlite)
+`MySQL` `PostgreSQL` `SQLite`
 
 ### ⚙️ Tools
-![Git](https://img.shields.io/badge/Git-orange?logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)
-![Docker](https://img.shields.io/badge/Docker-blue?logo=docker)
-![VSCode](https://img.shields.io/badge/VSCode-blue?logo=visualstudiocode)
-![Anaconda](https://img.shields.io/badge/Anaconda-green?logo=anaconda)
-![Selenium](https://img.shields.io/badge/Selenium-green?logo=selenium)
+`Git` `GitHub` `Docker` `VS Code` `Anaconda` `Selenium`
 
 ---
 
+## 📂 Selected Projects
 
-## 🚀 Featured Projects
+### 💰 Personal Finance Tracker
+> Manage income & expenses with analytics
 
+✔ Category Tracking  
+✔ Reports & Charts  
+✔ Secure Storage  
 
-### 🔹 Personal Finance Tracker
-A web-based application to manage personal income and expenses efficiently.
-
-**Features:**
-- Add, Edit, Delete Transactions
-- Category-wise Expense Tracking
-- Monthly & Yearly Summary
-- Visual Charts & Reports
-- Secure Local Database
-
-**Tech Used:** FastAPI, Streamlit, SQLite, Python  
+**Stack:** FastAPI • Streamlit • SQLite • Python  
 
 ---
 
-### 🔹 Hand Gesture Video Controller
-A desktop application that allows users to control media and system functions using hand gestures.
+### ✋ Hand Gesture Controller
+> Control PC using gestures
 
-**Features:**
-- Play/Pause, Volume Control, Scroll
-- Mouse Cursor Movement
-- Real-time Hand Detection
-- Works with Webcam
+✔ Mouse & Media Control  
+✔ Real-Time Detection  
 
-**Tech Used:** Python, OpenCV, MediaPipe, PyAutoGUI  
+**Stack:** OpenCV • MediaPipe • Python  
 
 ---
 
+### 🌱 Uchero Garden Website
+> Gardening business platform
 
-### 🔹 Uchero Garden Website
-A business website for selling gardening products and providing plant care information.
+✔ Product Listings  
+✔ Care Guide  
+✔ Admin Panel  
 
-**Features:**
-- Product Listing (Plants, Pots, Tools)
-- Fertilizer & Plant Care Guide
-- Customer Inquiry Form
-- Admin Panel for Management
+**Stack:** PHP • MySQL • Tailwind  
 
-**Tech Used:** PHP, MySQL, Tailwind CSS  
+---
 
-
-
-
-
-## 📊 GitHub Status
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Savaliya03&show_icons=true&theme=github_dark_dimmed&hide_border=true&include_all_commits=true" height="170"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Savaliya03&show_icons=true&theme=github_dark_dimmed&hide_border=true&include_all_commits=true" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=Savaliya03&theme=github_dark_dimmed&hide_border=true" height="165"/>
 </p>
 
+---
+
+## 🧠 Language Focus
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Savaliya03&theme=github_dark_dimmed&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Savaliya03&layout=compact&theme=github_dark_dimmed&hide_border=true"/>
 </p>
-
-
-
 
 ---
 
-## 🧠 Most Used Languages
+## 👀 Profile Views
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Savaliya03&layout=compact&theme=github_dark_dimmed&hide_border=true" height="170"/>
-</p>
-
-
----
-
-## 👀 Profile Visitors
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Savaliya03&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Savaliya03&color=blue&style=flat" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF00&width=435&lines=Thanks+for+visiting+my+profile!;⭐️+Drop+a+star+if+you+like+my+work!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1200&color=36BCF7&center=true&width=500&lines=Thanks+for+visiting+my+GitHub!;Let's+Build+Something+Great!;Keep+Learning+🚀" />
 </p>
+
+<!-- Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:243B55,100:141E30&height=80&section=footer"/>
