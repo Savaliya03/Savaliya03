@@ -142,6 +142,5 @@
 
 ---
 
-
 <!-- Closing Banner -->
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0072ff,100:00c6ff&height=120&section=footer&text=Thanks%20For%20Visiting%20My%20Profile%20🙏&fontSize=26&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0072ff,100:00c6ff&height=120&section=footer&text=Open%20To%20Internships%20%7C%20Let’s%20Build%20Together%20💼🚀&fontSize=24&fontColor=ffffff&animation=fadeIn" />
