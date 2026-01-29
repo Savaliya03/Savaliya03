@@ -1,5 +1,5 @@
 <!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0f2027,100:203a43&height=190&section=header&text=Vatsal%20Savaliya&fontSize=38&fontColor=ffffff&fontAlignY=42&desc=AI%20%7C%20Web%20%7C%20B.Tech%20IT%20Student&descAlignY=68&descColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:141E30,100:243B55&height=190&section=header&text=Vatsal%20Savaliya&fontSize=38&fontColor=ffffff&fontAlignY=42&desc=AI%20%7C%20Web%20%7C%20B.Tech%20IT%20Student&descAlignY=68&descColor=ffffff&animation=fadeIn" />
 
 <p align="center">
   <b>🚀 Learning • Building • Improving Everyday</b>
