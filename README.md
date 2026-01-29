@@ -141,6 +141,5 @@
 </p>
 
 ---
-
-<!-- Closing Banner -->
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0072ff,100:00c6ff&height=120&section=footer&text=Open%20To%20Internships%20%7C%20Let’s%20Build%20Together%20💼🚀&fontSize=24&fontColor=ffffff&animation=fadeIn" />
+<!-- Dynamic Footer Banner -->
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0072ff,100:00c6ff&height=120&section=footer&text=Learning%20%7C%20Building%20%7C%20Growing%20Everyday%20🚀&fontSize=24&fontColor=ffffff&fontAlignY=55&animation=twinkling" />
