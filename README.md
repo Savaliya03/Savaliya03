@@ -150,10 +150,9 @@
 
 
 
-<!-- Dynamic Message -->
+<!-- Dynamic Footer -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=21&pause=1200&color=36BCF7&center=true&width=600&lines=Learning+AI+%26+Web+Development;Building+Real+World+Projects;Preparing+For+Tech+Careers+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1200&color=36BCF7&center=true&width=600&lines=B.Tech+IT+Student+%7C+AI+Learner;Building+Projects+Daily;Open+To+Internships+💼;Keep+Improving+🚀" />
 </p>
 
-<!-- Footer Shape -->
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0072ff,100:00c6ff&height=90&section=footer&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0072ff,100:00c6ff&height=110&section=footer&text=Turning%20Ideas%20Into%20Code%20💻&fontSize=22&fontColor=ffffff&animation=fadeIn" />
