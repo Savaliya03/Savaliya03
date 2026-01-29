@@ -148,7 +148,7 @@
 
 
 
-
+<!-- Dynamic Quote Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0072ff,100:00c6ff&height=140&section=footer&text=🌍%20Exploring%20the%20world%20of%20coding%20😊%20Staying%20positive%20🧠%20Learning%20with%20patience%20🔁%20Learning%20from%20mistakes%20💻%20Improving%20myself%20🌱%20Growing%20with%20experience%20🚀%20Never%20giving%20up&fontSize=20&fontColor=ffffff&fontAlignY=55&animation=fadeIn" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1200&color=36BCF7&center=true&width=700&lines=🌍+Exploring+the+world+of+coding;😊+Staying+positive;🧠+Learning+with+patience;🔁+Learning+from+mistakes;💻+Improving+myself;🌱+Growing+with+experience;🚀+Never+giving+up" />
 </p>
