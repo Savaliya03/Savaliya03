@@ -141,10 +141,5 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1200&color=0072FF&center=true&width=500&lines=Thanks+for+visiting+my+GitHub!;Let's+Build+Something+Great!;Keep+Learning+🚀" />
-</p>
-
-<!-- Footer -->
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0072ff,100:00c6ff&height=90&section=footer"/>
+<!-- Closing Banner -->
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0072ff,100:00c6ff&height=120&section=footer&text=Keep%20Learning%20.%20Keep%20Building%20.%20Keep%20Growing%20🚀&fontSize=24&fontColor=ffffff&animation=fadeIn" />
