@@ -22,33 +22,65 @@
 
 ---
 
-# 💻 Tech Stack:
+# 💻 Tech Stack
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+### 👨‍💻 Programming Languages
+![Python](https://img.shields.io/badge/Python-blue?logo=python)
+![C](https://img.shields.io/badge/C-blue?logo=c)
+![C++](https://img.shields.io/badge/C++-blue?logo=cplusplus)
+![PHP](https://img.shields.io/badge/PHP-purple?logo=php)
+
+### 🌐 Web Development
+![HTML](https://img.shields.io/badge/HTML-orange?logo=html5)
+![CSS](https://img.shields.io/badge/CSS-blue?logo=css3)
+![Tailwind](https://img.shields.io/badge/Tailwind-blue?logo=tailwindcss)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?logo=bootstrap)
+![Django](https://img.shields.io/badge/Django-darkgreen?logo=django)
+![FastAPI](https://img.shields.io/badge/FastAPI-green?logo=fastapi)
+![Flask](https://img.shields.io/badge/Flask-black?logo=flask)
+
+### 🤖 AI / ML
+![OpenCV](https://img.shields.io/badge/OpenCV-white?logo=opencv)
+![NumPy](https://img.shields.io/badge/NumPy-blue?logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-purple?logo=pandas)
+![Scikit](https://img.shields.io/badge/Scikit--Learn-orange?logo=scikitlearn)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?logo=tensorflow)
+![PyTorch](https://img.shields.io/badge/PyTorch-red?logo=pytorch)
+
+### 🗄️ Database
+![MySQL](https://img.shields.io/badge/MySQL-blue?logo=mysql)
+![Postgres](https://img.shields.io/badge/PostgreSQL-blue?logo=postgresql)
+![SQLite](https://img.shields.io/badge/SQLite-blue?logo=sqlite)
+
+### ⚙️ Tools
+![Git](https://img.shields.io/badge/Git-orange?logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)
+![Docker](https://img.shields.io/badge/Docker-blue?logo=docker)
+![VSCode](https://img.shields.io/badge/VSCode-blue?logo=visualstudiocode)
+![Anaconda](https://img.shields.io/badge/Anaconda-green?logo=anaconda)
+![Selenium](https://img.shields.io/badge/Selenium-green?logo=selenium)
 
 ---
 
 ## 🚀 Featured Projects
 
+### 🔹 Personal Finance Manager (Latest Project)
+A web-based application to manage income and expenses.
+
+**Features:**
+- Add / Edit / Delete transactions
+- Category-wise expense tracking
+- Monthly summary dashboard
+- Visual charts for analysis
+- Secure data storage
+
+**Tech Used:** FastAPI, Streamlit, SQLite, Python
+
+---
+
 ### 🔹 Hand Gesture Video Controller
 - Controls PC using hand gestures  
 - Tech: Python, OpenCV, MediaPipe  
-
-### 🔹 Personal Finance Tracker
-- Track income & expenses  
-- Tech: FastAPI, Streamlit, SQLite  
 
 ### 🔹 Uchero Garden Website
 - Gardening business website  
@@ -56,10 +88,10 @@
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Savaliya03&show_icons=true&theme=radical&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Savaliya03&show_icons=true&theme=radical&hide_border=true&custom_title=GitHub%20Stats&animation=wave" height="180"/>
   <img src="https://streak-stats.demolab.com?user=Savaliya03&theme=radical&hide_border=true" height="180"/>
 </p>
 
@@ -68,7 +100,7 @@
 ## 🧠 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Savaliya03&layout=compact&theme=gruvbox&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Savaliya03&layout=compact&theme=radical&hide_border=true&langs_count=8" />
 </p>
 
 ---
@@ -94,24 +126,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Savaliya03&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
-
----
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=Savaliya03&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-
-### ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
-### 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=Savaliya03&limit=5&theme=gruvbox_light&combine_all_yearly_contributions=true)
 
 ---
 
