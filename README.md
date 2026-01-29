@@ -65,19 +65,46 @@
 
 ## 🚀 Featured Projects
 
-### 🔹 Hand Gesture Video Controller
-- Controls PC using hand gestures  
-- Tech: Python, OpenCV, MediaPipe  
 
 ### 🔹 Personal Finance Tracker
-- Track income & expenses  
-- Tech: FastAPI, Streamlit, SQLite  
+A web-based application to manage personal income and expenses efficiently.
 
-### 🔹 Uchero Garden Website
-- Gardening business website  
-- Tech: PHP, MySQL, Tailwind   
+**Features:**
+- Add, Edit, Delete Transactions
+- Category-wise Expense Tracking
+- Monthly & Yearly Summary
+- Visual Charts & Reports
+- Secure Local Database
+
+**Tech Used:** FastAPI, Streamlit, SQLite, Python  
 
 ---
+
+### 🔹 Hand Gesture Video Controller
+A desktop application that allows users to control media and system functions using hand gestures.
+
+**Features:**
+- Play/Pause, Volume Control, Scroll
+- Mouse Cursor Movement
+- Real-time Hand Detection
+- Works with Webcam
+
+**Tech Used:** Python, OpenCV, MediaPipe, PyAutoGUI  
+
+---
+
+
+### 🔹 Uchero Garden Website
+A business website for selling gardening products and providing plant care information.
+
+**Features:**
+- Product Listing (Plants, Pots, Tools)
+- Fertilizer & Plant Care Guide
+- Customer Inquiry Form
+- Admin Panel for Management
+
+**Tech Used:** PHP, MySQL, Tailwind CSS  
+
 
 
 
