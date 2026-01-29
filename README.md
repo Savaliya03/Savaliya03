@@ -95,6 +95,11 @@ A web-based application to manage income and expenses.
   <img src="https://streak-stats.demolab.com?user=Savaliya03&theme=radical&hide_border=true" height="180"/>
 </p>
 
+![](https://github-readme-stats.vercel.app/api?username=Savaliya03&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Savaliya03&theme=github_dark_dimmed&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Savaliya03&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+
 ---
 
 ## 🧠 Most Used Languages
