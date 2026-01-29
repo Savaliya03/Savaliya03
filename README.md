@@ -120,8 +120,9 @@ A web-based application to manage income and expenses.
 ## 📅 3D Contributions Calendar
 
 <p align="center">
-  <img src="profile-3d-contrib/profile-green-animate.svg" />
+  <img src="https://raw.githubusercontent.com/Savaliya03/github-profile-3d-contrib/main/profile-3d-contrib/profile-green-animate.svg" />
 </p>
+
 
 ---
 
