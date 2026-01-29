@@ -101,11 +101,6 @@ A web-based application to manage income and expenses.
   <img src="https://streak-stats.demolab.com?user=Savaliya03&theme=github_dark_dimmed&hide_border=true" height="170"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Savaliya03&layout=compact&theme=github_dark_dimmed&hide_border=true" height="170"/>
-</p>
-
-
 
 
 
@@ -114,8 +109,11 @@ A web-based application to manage income and expenses.
 ## 🧠 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Savaliya03&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Savaliya03&layout=compact&theme=github_dark_dimmed&hide_border=true" height="170"/>
 </p>
+
+
+
 
 ---
 
