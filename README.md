@@ -94,9 +94,12 @@ A web-based application to manage income and expenses.
   <img src="https://github-readme-stats.vercel.app/api?username=Savaliya03&show_icons=true&theme=github_dark_dimmed&hide_border=true&include_all_commits=true" height="170"/>
 
   <img src="https://streak-stats.demolab.com?user=Savaliya03&theme=github_dark_dimmed&hide_border=true" height="170"/>
+</p>
 
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Savaliya03&layout=compact&theme=github_dark_dimmed&hide_border=true" height="170"/>
 </p>
+
 
 
 
