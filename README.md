@@ -122,9 +122,9 @@
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Savaliya03&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Savaliya03&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=7272" height="200"/>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Savaliya03&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Savaliya03&theme=tokyonight&hide_border=true" height="200"/>
 </p>
 
 
