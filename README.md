@@ -61,12 +61,14 @@
 
 ### 🤖 AI / Data
 <p>
-<img src="https://img.shields.io/badge/OpenCV-white?logo=opencv&logoColor=black"/>
-<img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-white?logo=opencv&logoColor=black"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white"/>
+  
+  <img src="https://img.shields.io/badge/PEFT-0052FF?logo=target&logoColor=white"/>
 </p>
 
 ### 🗄️ Database & Tools
