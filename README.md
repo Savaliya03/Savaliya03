@@ -132,10 +132,18 @@
 
 ---
 
+<!--
+## 🧠 Language Focus
+
+ <p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Savaliya03&layout=compact&theme=tokyonight&hide_border=true" width="500"/>
+</p> -->
+
+
 ## 🧠 Language Focus
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Savaliya03&layout=compact&theme=tokyonight&hide_border=true" height="200"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Savaliya03&theme=tokyonight&hide_border=true" width="390"/>
 </p>
 
 ---
