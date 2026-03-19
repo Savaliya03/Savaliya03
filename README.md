@@ -85,6 +85,7 @@
 </p>
 
 ---
+<!--
 
 ## 📂 Selected Projects
 
@@ -119,6 +120,7 @@
 **Stack:** PHP • MySQL • Tailwind  
 
 ---
+-->
 
 
 ## 📊 GitHub Activity
