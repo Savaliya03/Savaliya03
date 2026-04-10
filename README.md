@@ -60,7 +60,7 @@ I engineer scalable backend architectures and integrate applied AI to solve comp
 
 ## 📂 Featured Projects
 
-### 🧠 Fine-Tuning LVLMs (PEFT/LoRA)
+### 🧠 Architecting an Energy Intelligence LLM via PEFT Optimization
 Fine-tuned **Qwen2.5-VL** to enhance multimodal reasoning and complex data extraction using Low-Rank Adaptation.
 * **Stack:** Python, PyTorch, Hugging Face PEFT, LLMs.
 
