@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&color=003973&height=190&section=header&text=Vatsal%20Savaliya&fontSize=38&fontColor=ffffff&fontAlignY=40&desc=AI%20ML%20and%20Full-Stack%20Engineer&descAlignY=65&descColor=ffffff" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&color=003973&height=190&section=header&text=Vatsal%20Savaliya&fontSize=38&fontColor=ffffff&fontAlignY=40&desc=AI/ML%20and%20Full-Stack%20Engineer&descAlignY=65&descColor=ffffff" />
 
 <p align="center">
   <b>🚀 Architecting Scalable Backends • Fine-Tuning Multimodal Intelligence</b>
