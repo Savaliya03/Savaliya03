@@ -18,7 +18,7 @@ I engineer scalable backend architectures and integrate applied AI to solve comp
 
 ## 💼 Experience & Internship
 
-**Software Engineer (Internship)** | *Innovation Intellect Pvt Ltd* | *Jan 2026 – Present*
+**Software Engineer (Internship)** | *Innovation Intellect Pvt Ltd* | *Jan 2026 – May 2026*
 * **Enterprise AI:** Architected pipelines integrating **Gemini 3** and **DeepSeek V3.2** into backend ecosystems.
 * **LVLM Fine-Tuning:** Engineered **Qwen2.5-VL** using **LoRA/PEFT** for multimodal reasoning.
 * **NLP-to-DB:** Developed Text-to-SQL models to optimize data extraction efficiency.
