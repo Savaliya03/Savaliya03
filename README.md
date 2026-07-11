@@ -10,7 +10,7 @@
 
 I engineer scalable backend architectures and integrate applied AI to solve complex data challenges. My expertise lies in bridging high-performance relational databases with advanced **Vision-Language Models (VLMs)** and **LLMs** to create robust, intelligent applications.
 
-* 🔭 **Current Focus:** Software Engineer Intern at **Innovation Intellect**, building RAG pipelines and Text-to-SQL systems.
+* 🔭 **Current Focus:** Building production-ready Text-to-SQL agents and exploring Full-Time AI/Backend opportunities.
 * 🧠 **Technical Core:** PEFT (LoRA) for LVLMs, Asynchronous APIs (FastAPI), and Real-time Computer Vision.
 * ⚡ **Philosophy:** I prioritize absolute logical integrity, clean data pipelines, and production-ready code.
 
@@ -23,8 +23,25 @@ I engineer scalable backend architectures and integrate applied AI to solve comp
 * **LVLM Fine-Tuning:** Engineered **Qwen2.5-VL** using **LoRA/PEFT** for multimodal reasoning.
 * **NLP-to-DB:** Developed Text-to-SQL models to optimize data extraction efficiency.
 
+
 ---
 
+
+## 🚀 Featured Projects
+
+### 🤖 Text-to-SQL AI Agent V2.0
+* **Tech Stack:** Python, FastAPI, PostgreSQL, Qwen2.5 / DeepSeek, LangChain
+* Built an advanced Text-to-SQL engine hitting **80% logic accuracy** via parent-child distillation.
+* Integrated automated BI visualizations and structured schema mapping pipelines.
+
+### 🌿 Enterprise AgTech Knowledge PWA
+* **Tech Stack:** FastAPI, PostgreSQL, Progressive Web App (PWA), LLMs
+* Designed a scalable knowledge-base architecture tailored for large-scale agricultural operations, integrating complex domain datasets.
+
+
+---
+
+  
 ## 🧩 Technical Arsenal
 
 ### 🤖 AI / Machine Learning & Data
@@ -42,7 +59,6 @@ I engineer scalable backend architectures and integrate applied AI to solve comp
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white"/>
 </p>
 
