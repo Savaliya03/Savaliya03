@@ -96,7 +96,7 @@ I am an Information Technology student and Backend Engineer focused on building 
   <a href="https://www.linkedin.com/in/vatsal-savaliya-587bab281">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://x.com/VatsalS___03">
+  <a href="https://x.com/Venom___03">
     <img src="https://img.shields.io/badge/X-Follow-000000?logo=x&logoColor=white"/>
   </a>
   <a href="https://youtube.com/@vatsals_space">
